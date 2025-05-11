@@ -90,6 +90,7 @@ The backend service uses a custom-trained YOLOv5 model to detect license plates 
 ## ✅ Future Improvements
 
 * Real-time video stream support
+* More accurate text extraction with CV Tecniques
 * Multi-plate detection per image
 * Text overlay on detected plates
 * Logging and feedback for OCR quality
