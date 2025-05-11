@@ -6,6 +6,8 @@
 
 The backend service uses a custom-trained YOLOv5 model to detect license plates in uploaded images. YOLO (You Only Look Once) is a real-time object detection algorithm known for its speed and accuracy.
 
+![Demo UI](Screenshot_11-5-2025_152810_localhost.jpeg)
+
 ### Training Dataset
 
 * **Dataset**: A labeled license plate dataset with bounding boxes around license plates
