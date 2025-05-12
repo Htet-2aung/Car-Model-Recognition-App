@@ -18,8 +18,8 @@ The backend service uses a custom-trained YOLOv5 model to detect license plates 
 ### Training Configuration
 
 * **Framework**: PyTorch with `ultralytics/yolov5`
-* **Model Used**: `yolov5s` (small variant for faster inference)
-* **Epochs**: 100
+* **Model Used**: `yolov5` 
+* **Epochs**: 50
 * **Batch Size**: 16
 * **Input Image Size**: 640x640
 * **Augmentation**: Random scale, flip, color shift
